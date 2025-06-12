@@ -1,0 +1,17 @@
+body {
+  background: black;
+  color: white;
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+}
+.dashboard {
+  padding: 2rem;
+}
+.health-card {
+  margin: 2rem auto;
+  padding: 2rem;
+  width: 300px;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.5rem;
+}
