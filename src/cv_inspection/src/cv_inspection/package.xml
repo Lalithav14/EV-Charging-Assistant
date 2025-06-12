@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>cv_inspection</name>
+  <version>0.1.0</version>
+  <description>Computer vision module for robotic EV charger</description>
+  <maintainer email="your@email.com">Lalitha V</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>opencv</exec_depend>
+</package>
