@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>pm_health</name>
+  <version>0.0.1</version>
+  <description>Predictive maintenance module</description>
+  <maintainer email="your@email.com">Lalitha V</maintainer>
+  <license>MIT</license>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>scikit-learn</exec_depend>
+</package>
