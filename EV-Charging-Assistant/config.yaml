@@ -1,0 +1,20 @@
+
+---
+
+## 🧑‍💻 How to Run This Project
+
+### ✅ Prerequisites
+
+- ROS 2 (Humble/Foxy recommended)
+- Python 3.8+
+- React (for UI)
+- Node.js (for React frontend)
+- OpenAI API key for LLM
+
+---
+
+### 🚦 1. Clone the Repository
+
+```bash
+git clone https://github.com/Lalithav14/EV-Charging-Assistant.git
+cd EV-Charging-Assistant
